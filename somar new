@@ -1,0 +1,13 @@
+void main()
+{
+ somar(9,5);
+ somar(43,95);
+ somar(146,706);
+ somar(7467,2574);
+}
+
+void somar(int x, int y)
+{
+  int resultado = x + y;
+  
+ print(resultado);
